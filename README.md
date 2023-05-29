@@ -10,7 +10,7 @@ This is a full stack social media web application developed using the MERN (Mong
 - Post Interaction: Users can like, comment on, and delete their own posts.
 - Responsive Design: The application is optimized for various screen sizes and devices.
 ## Installation
-1. Clone the repository: git clone https://github.com/your/repo.git
+1. Clone the repository: git clone https://github.com/NotWesi/mern-stack-social-media-app.git
 2. Navigate to the project directory: cd project-directory
 3. Install server dependencies: npm install
 4. Install client dependencies: cd client && npm install
